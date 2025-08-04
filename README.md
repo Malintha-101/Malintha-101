@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
+-  website **[malintha.vercel.app](https://malintha.vercel.app/)**
+
 
 <h3 align="center">Github activity graph:</h3>
 
